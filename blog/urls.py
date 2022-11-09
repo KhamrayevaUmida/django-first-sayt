@@ -5,7 +5,7 @@ from core.views import *
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', asosiy),
-    path('ferrary/', ferrary),
+    path('ferrari/', ferrary),
     path('mercedes/', mersedes),
     path('bmw/', bmv),
     path('toyota/', toyota),

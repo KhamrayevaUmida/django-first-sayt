@@ -3,7 +3,7 @@ from django.shortcuts import render
 def asosiy(request):
     return render(request, 'index.html')
 
-def ferrary(request):
+def ferrari(request):
     return render(request, 'cars1.html')
 
 def mersedes(request):
